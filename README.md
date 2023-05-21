@@ -17,8 +17,7 @@ Permite el control remoto y la ejecución de comandos en la «Raspberri Pi» usa
     gpiozero
 Instalarlas manualmente o ejecutar setup.py para resolverlas
 
-    ```
-    pip install .
-
-    ```
+```
+pip install .
+```
   
