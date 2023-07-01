@@ -1,13 +1,15 @@
 from setuptools import setup
-
+from constantes import Configuracion as conf
 setup(
-    name='bot-tg-pi',
-    version='1.0',
+    name = conf.NOMBRE_AP,
+    version = conf.VERSION,
     packages=[''],
     install_requires=[
         'python-dotenv',
         'python-telegram-bot',
-        'gpiozero'        
+        'gpiozero',
+        #'RPi.GPIO',
+        'python-gettext'        
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
