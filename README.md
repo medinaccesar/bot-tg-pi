@@ -3,6 +3,23 @@ Bot de telegram para la Raspberry Pi
 
 Permite el control remoto y la ejecución de comandos en la «Raspberri Pi» usando «telegram».
 
+## Cosas que puede hacer
+    - Resolver comandos privados y públicos, depende del usuario que lo envíe lo atenderá o no
+    - Encender y apagar un centro multimedia (Kodi)
+    - Encender y apagar la cámara
+    - Encender y apagar un sensor de presencia:
+        - El sensor enviará un mensaje a «telegram» cuando detecte movimiento
+        - El sensor activará la cámara y ésta comenzará a grabar
+        - Las grabaciones se guardan en la nube (Filen, Drive ... )
+    - Sacar una foto y recibirla por «Telegram»
+    - Grabar vídeo y recibirlo por «Telegram»
+    - Activar un servidor VNC con túnel ssh para el control gráfico de «RaspberriPi» desde otro equipo
+    - Listar programas que se están ejecutando
+    - Cualquier otra cosa que se quiera añadir:
+           - Consultar el tiempo
+           - Activar o desactivar un servidor SFTP
+           - Activar o desactivar un servidor WEB
+           - (...)         
 ## Requisitos previos
 
 1) Se necesita un «token» para poder acceder a la API de «telegram», se puede obtener creando un bot con «BotFather», se trata del bot oficial de «telegram» y dispone de un proceso guiado de creación de un bot que culmina con la obtención del «token».
