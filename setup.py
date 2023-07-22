@@ -7,8 +7,7 @@ setup(
     install_requires=[
         'python-dotenv',
         'python-telegram-bot',
-        'gpiozero',
-        #'RPi.GPIO',
+        'gpiozero',        
         'python-gettext'        
     ],
     classifiers=[
