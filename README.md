@@ -26,7 +26,7 @@ Permite el control remoto y la ejecución de comandos en la «Raspberri Pi» usa
 
 2) Elementos físicos opcionales: 
     - Una cámara 
-    - Sensor de presencia
+    - Un sensor de presencia
 
 ## Dependencias
     python-dotenv
