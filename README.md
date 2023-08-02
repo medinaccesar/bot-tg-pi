@@ -4,7 +4,7 @@ Bot de telegram para la Raspberry Pi
 Permite el control remoto y la ejecución de comandos en la «Raspberri Pi» usando «telegram».
 
 ## Cosas que puede hacer
-    - Resolver comandos privados y públicos, depende del usuario que lo envíe lo atenderá o no
+    - Resolver comandos privados y públicos
     - Encender y apagar un centro multimedia (Kodi)
     - Encender y apagar la cámara
     - Encender y apagar un sensor de presencia:
