@@ -5,7 +5,7 @@ Permite el control remoto y la ejecución de comandos en la «Raspberri Pi» usa
 
 ## Cosas que puede hacer
     - Resolver comandos privados y públicos
-    - Encender y apagar un centro multimedia (Kodi)
+    - Encender y apagar un centro multimedia (Kodi...)
     - Encender y apagar la cámara
     - Encender y apagar un sensor de presencia:
         - El sensor enviará un mensaje a «telegram» cuando detecte movimiento
