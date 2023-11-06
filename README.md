@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/status-En%20desarrollo-brightgreen)
 # bot-tg-pi
 Bot de telegram para la Raspberry Pi
 
