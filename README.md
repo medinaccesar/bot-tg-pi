@@ -15,7 +15,7 @@ Permite el control remoto y la ejecución de comandos en la «Raspberri Pi» usa
     - Sacar una foto y recibirla por «Telegram».
     - Grabar vídeo y recibirlo por «Telegram».
     - Activar un servidor VNC con túnel ssh para el control gráfico de «RaspberriPi» desde otro equipo.
-    - Listar programas que se están ejecutando.
+    - Estado de los posibles comandos (encendido/apagado).
     - Cualquier otra cosa que se quiera añadir:
            - Consultar el tiempo.
            - Activar o desactivar un servidor SFTP.
