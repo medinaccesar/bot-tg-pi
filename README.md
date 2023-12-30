@@ -11,7 +11,7 @@ Permite el control remoto y la ejecución de comandos en la «Raspberri Pi» usa
     - Encender y apagar un sensor de presencia:
         - El sensor enviará un mensaje a «telegram» cuando detecte movimiento.
         - El sensor activará la cámara y ésta comenzará a grabar.
-        - Las grabaciones se guardan en la nube (Filen, Drive ... ).
+        - Las grabaciones se guardan en la nube (Filen, Drive... ).
     - Sacar una foto y recibirla por «Telegram».
     - Grabar vídeo y recibirlo por «Telegram».
     - Activar un servidor VNC con túnel ssh para el control gráfico de «RaspberriPi» desde otro equipo.
