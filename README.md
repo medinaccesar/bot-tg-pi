@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/status-En%20desarrollo-brightgreen)
 # bot-tg-pi
-Bot de telegram para la Raspberry Pi
+Bot de telegram para el control de la Raspberry Pi
 
 Permite el control remoto y la ejecución de comandos en la «Raspberri Pi» usando «telegram».
 
